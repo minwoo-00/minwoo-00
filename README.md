@@ -83,10 +83,7 @@
 ### 📫 Contact
 
 - 📧 이메일: um9375@naver.com
-- 📝 블로그: https://your-blog.com
-
-
-
+- 💼 LinkedIn: https://linkedin.com/in/minwoo-8645893a4
 
     
 [![Solved.ac
