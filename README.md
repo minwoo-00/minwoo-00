@@ -75,8 +75,9 @@
 
 ### 🎓 Education
 
-**우리금융그룹 · 우리FISA** — 클라우드 엔지니어링 과정
 | 2025.12 – 2026.06 | 
+ **우리FIS Academy** — 클라우드 엔지니어링 과정
+
 
 ---
 
@@ -85,6 +86,9 @@
 - 📧 이메일: um9375@naver.com
 - 💼 LinkedIn: https://linkedin.com/in/minwoo-8645893a4
 
+---
+
+### 🔥 Algorithm
     
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rough312)](https://solved.ac/rough312)
