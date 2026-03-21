@@ -27,8 +27,8 @@
 
 | 자격증 | 발급기관 | 취득일 |
 |--------|---------|---------|
-| AWS Solutions Architect – Associate | Amazon Web Services | 2026-03 |
-| AWS CloudOps Administrator – Associate | Amazon Web Services | 2026-02 |
+| AWS CloudOps Administrator – Associate | Amazon Web Services | 2026-03 |
+| AWS Solutions Architect – Associate | Amazon Web Services | 2026-02 |
 | 정보처리기사 | 한국산업인력공단 | 2025-06 |
 | SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025-04 |
 
