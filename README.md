@@ -1,13 +1,12 @@
-## 안녕하세요, 저는 조민우입니다 👋
-**클라우드 & 인프라 엔지니어를 지향합니다**
+## Hi👋 I'm Minwoo Cho
+**Aspiring Cloud & Infrastructure Engineer**
 
 ---
 
 ### 🙋 About Me
-
-- ☁️ AWS · VMware 기반 인프라 설계 및 자동화에 관심이 있습니다
-- 🔧 안정적인 시스템 운영과 CI/CD 파이프라인 구축을 지향합니다
-- 📚 현재 **우리FISA 클라우드 엔지니어링 과정** 수강 중 (2025.12 – 2026.06)
+- ☁️ Passionate about infrastructure design and automation with AWS and VMware
+- 🔧 Focused on building reliable systems and CI/CD pipelines
+- 📚 Currently enrolled in **Woori FISA Cloud Engineering Program** (2025.12 – 2026.06)
 
 ---
 
@@ -27,10 +26,10 @@
 
 | 자격증 | 발급기관 | 취득일 |
 |--------|---------|---------|
-| AWS CloudOps Administrator – Associate | Amazon Web Services | 2026-03 |
-| AWS Solutions Architect – Associate | Amazon Web Services | 2026-02 |
-| 정보처리기사 | 한국산업인력공단 | 2025-06 |
-| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025-04 |
+| AWS CloudOps Administrator – Associate | Amazon Web Services | 2026-03-09 |
+| AWS Solutions Architect – Associate | Amazon Web Services | 2026-02-14 |
+| 정보처리기사 | 한국산업인력공단 | 2025-06-13 |
+| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025-04-04 |
 
 ---
 
