@@ -4,10 +4,9 @@
 ---
 
 ### 🙋 About Me
-- ☁️ Passionate about infrastructure design and automation with AWS and VMware
-- 🔧 Focused on building reliable systems and CI/CD pipelines
-- 📚 Currently enrolled in **Woori FISA Cloud Engineering Program** (2025.12 – 2026.06)
-
+- ☁️ AWS · VMware 기반 인프라 설계 및 자동화에 관심이 있습니다
+- 🔧 안정적인 시스템 운영과 CI/CD 파이프라인 구축을 지향합니다
+- 📚 현재 **우리FISA 클라우드 엔지니어링 과정** 수강 중 (2025.12 – 2026.06)
 ---
 
 ### 🛠 Tech Stack
