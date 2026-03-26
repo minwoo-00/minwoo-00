@@ -44,14 +44,16 @@
 
 ---
 
+
 ### 📖 Study
 
 > 개인 / 팀 학습 기록
 
-| 주제 | 내용 | 날짜 |
-|------|------|------|
-| [Linux 실전 활용](https://github.com/bbky323/FISA-LinuxSearch.git) | find · grep · awk · jq · yq · shell script를 활용한 시나리오 기반 문제 해결 실습 | 2026.03.19 |
-| [우리카드 소비 분석](https://github.com/minwoo-00/ELK-project.git) | 우리카드 실 소비 데이터를 ELK 스택으로 분석해 잠재 고객 유치 인사이트 도출 | 2026.01.15 |
+| 주제 | 내용 | 날짜 | GitHub |
+|------|------|------|--------|
+| Docker 이미지 최적화 | 멀티 스테이지 빌드 · 경량 베이스 이미지 · 레이어 캐시 전략을 활용한 도커 이미지 최적화 실습 | 2026.03.26 | [🔗](https://github.com/minwoo-00/fisa_docker.git) |
+| Linux 실전 활용 | find · grep · awk · jq · yq · shell script를 활용한 시나리오 기반 문제 해결 실습 | 2026.03.19 | [🔗](https://github.com/bbky323/FISA-LinuxSearch.git) |
+| 우리카드 소비 분석 | 우리카드 실 소비 데이터를 ELK 스택으로 분석해 잠재 고객 유치 인사이트 도출 | 2026.01.15 | [🔗](https://github.com/minwoo-00/ELK-project.git) |
 
 ---
 
