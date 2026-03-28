@@ -25,6 +25,7 @@
 
 | 자격증 | 발급기관 | 취득일 |
 |--------|---------|---------|
+| CCNA | Cisco | 2026-03-28 |
 | AWS CloudOps Administrator – Associate | Amazon Web Services | 2026-03-09 |
 | AWS Solutions Architect – Associate | Amazon Web Services | 2026-02-14 |
 | 정보처리기사 | 한국산업인력공단 | 2025-06-13 |
