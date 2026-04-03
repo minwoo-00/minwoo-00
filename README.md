@@ -25,6 +25,7 @@
 
 | 자격증 | 발급기관 | 취득일 |
 |--------|---------|---------|
+| 리눅스마스터2급 | 한국정보통신진흥협회 | 2026-04-03 |
 | CCNA | Cisco | 2026-03-28 |
 | AWS CloudOps Administrator – Associate | Amazon Web Services | 2026-03-09 |
 | AWS Solutions Architect – Associate | Amazon Web Services | 2026-02-14 |
