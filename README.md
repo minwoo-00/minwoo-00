@@ -31,6 +31,7 @@
 | AWS Solutions Architect – Associate | Amazon Web Services | 2026-02-14 |
 | 정보처리기사 | 한국산업인력공단 | 2025-06-13 |
 | SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2025-04-04 |
+| 정보기기운용기능사 | 한국산업인력공단 | 2022-07-13 |
 
 ---
 
