@@ -14,7 +14,8 @@
 | 분야 | 기술 |
 |------|------|
 | Cloud & Infra | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) ![VMware](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| Container | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Container | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| CI/CD & Automation | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | 
 | CI/CD & Automation | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | Data & Monitoring | ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
 | Language & Backend | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
@@ -41,6 +42,7 @@
 
 | 프로젝트 | 설명 | 기간 | GitHub |
 |---------|------|------|------|
+| 쿠버네티스 CSI 구현 | 쿠버네티스 스토리지와 CSI 구현을 주제로 기술세미나 발표 | 2026.03.30 - 04.08 | [🔗](https://github.com/minwoo-00/nfs-csi-driver) |
 | HA 클러스터 인프라 구축 | VMware vSphere로 증권 도메인 온프레미스 인프라 설계 및 구축 실습 | 2026.03.05 – 03.13 | [🔗](https://github.com/fisa-network-virtualization/VMware.git) |
 | DB 이중화 | DB 이중화 구성 및 모니터링 시스템 구축. 기술세미나 발표 | 2026.01.20 – 02.05 | [🔗](https://github.com/minwoo-00/HA-project.git) |
 | 이상금융거래 대응 자동화 | n8n 기반 워크플로우로 이상 금융거래 탐지 및 대응 자동화 플랫폼 구축 | 2026.01.09 – 01.23 | [🔗](https://github.com/minwoo-00/n8n-financial-fraud-response.git) |
