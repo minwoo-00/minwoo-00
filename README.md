@@ -42,7 +42,7 @@
 | 프로젝트 | 설명 | 기간 | GitHub |
 |---------|------|------|------|
 | 쿠버네티스 CSI 구현 | 쿠버네티스 스토리지와 CSI 구현을 주제로 기술세미나 발표 | 2026.03.30 - 04.08 | [🔗](https://github.com/minwoo-00/nfs-csi-driver) |
-| HA 클러스터 인프라 구축 | VMware vSphere로 증권 도메인 온프레미스 인프라 설계 및 구축 실습 | 2026.03.05 – 03.13 | [🔗](https://github.com/fisa-network-virtualization/VMware.git) |
+| HA 클러스터 인프라 구축 | VMware vSphere로 증권 도메인 온프레미스 인프라 설계 및 구축 실습 | 2026.03.05 – 03.13 | [🔗](https://github.com/minwoo-00/VMware.git) |
 | DB 이중화 | DB 이중화 구성 및 모니터링 시스템 구축. 기술세미나 발표 | 2026.01.20 – 02.05 | [🔗](https://github.com/minwoo-00/HA-project.git) |
 | 이상금융거래 대응 자동화 | n8n 기반 워크플로우로 이상 금융거래 탐지 및 대응 자동화 플랫폼 구축 | 2026.01.09 – 01.23 | [🔗](https://github.com/minwoo-00/n8n-financial-fraud-response.git) |
 
