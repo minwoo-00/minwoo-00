@@ -72,7 +72,7 @@
 ### 📫 Contact
 
 - 📧 이메일: um9375@naver.com
-<!-- - 💼 LinkedIn: https://linkedin.com/in/minwoo-8645893a4 -->
+- 💼 LinkedIn: https://linkedin.com/in/minwoo-8645893a4
 
 ---
 
